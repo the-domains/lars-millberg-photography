@@ -1,3 +1,4 @@
+layout_spectrum: 0.44096131226979196
 typography_spectrum: 0.3131548597011715
 color:
   brandStrength: 0.05119033227674663
@@ -5,14 +6,9 @@ color:
   saturation: 0.6348671927116811
   rhythmicContrast: 0.7019105805084109
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-layout_spectrum: 0.44096131226979196
-author:
-  email: lars.millberg@gmail.com
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: Lars Millberg Photography
-title: The world as I see it
-description: Just a tagline
