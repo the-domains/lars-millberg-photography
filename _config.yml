@@ -1,6 +1,19 @@
+typography_spectrum: 0.3131548597011715
+color:
+  saturation: 0.6348671927116811
+  brandStrength: 0.05119033227674663
+  lightness: 0.825107031268999
+  brandColors:
+    - '#EFEFEF'
+    - '#111111'
+    - '#CACACA'
+    - '#979797'
+    - '#616161'
+  rhythmicContrast: 0.7019105805084109
+layout_spectrum: 0.9027927
 author:
   email: lars.millberg@gmail.com
-title: The world as I see it
+name: Lars Millberg Photography
 collections:
   - index:
       path: /
@@ -13,18 +26,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.6348671927116811
-  brandStrength: 0.05119033227674663
-  lightness: 0.825107031268999
-  brandColors:
-    - '#EFEFEF'
-    - '#111111'
-    - '#CACACA'
-    - '#979797'
-    - '#616161'
-  rhythmicContrast: 0.7019105805084109
-typography_spectrum: 0.3131548597011715
+title: The world as I see it
 description: Just a tagline
-layout_spectrum: 0.9027927
-name: Lars Millberg Photography
