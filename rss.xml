@@ -4,7 +4,7 @@
         <description><![CDATA[The world as I see it]]></description>
         <link>http://larsmillberg.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 18:08:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 09:05:22 GMT</lastBuildDate>
         <atom:link href="http://larsmillberg.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>http://larsmillberg.com/b86f055b-fdfd-407a-b455-b514655d1189/index.html</link>
             <guid isPermaLink="false">b86f055b-fdfd-407a-b455-b514655d1189</guid>
             <pubDate>Sun, 28 Aug 2016 18:08:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3ba1c84-5969-4631-8177-ec67a3ce8d93.jpg">]]></description>
-            <link>http://larsmillberg.com/55327362-1c7a-4536-9f29-bccf423b3209/index.html</link>
-            <guid isPermaLink="false">55327362-1c7a-4536-9f29-bccf423b3209</guid>
-            <pubDate>Sun, 28 Aug 2016 14:51:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
