@@ -11,6 +11,8 @@ color:
     - '#616161'
   rhythmicContrast: 0.7019105805084109
 layout_spectrum: 0.9027927
+analytics:
+  google: Tracking ID UA-83410577-1
 author:
   email: lars.millberg@gmail.com
   url: larsmillberg.com
