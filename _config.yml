@@ -19,6 +19,9 @@ navigation:
   - name: Pictures for sale here
     url: 'http://500px.com/larsmillberg'
     type: external
+  - name: Me on Instagram
+    url: 'http://www.imgrum.net/user/millberg/2484279'
+    type: external
 collections:
   - index:
       path: /
