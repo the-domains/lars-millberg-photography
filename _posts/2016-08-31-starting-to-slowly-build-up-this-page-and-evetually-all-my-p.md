@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-08-31T14:02:02.365Z'
+datePublished: '2016-08-31T14:02:05.400Z'
 sourcePath: >-
   _posts/2016-08-31-starting-to-slowly-build-up-this-page-and-evetually-all-my-p.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T14:02:01.490Z'
+dateModified: '2016-08-31T14:02:04.958Z'
 title: ''
 publisher: {}
 description: >-
   Starting to slowly build up this page and eventually all my pictures will be
   available for purchase here.
-starred: true
+starred: false
 _type: Blurb
 
 ---
